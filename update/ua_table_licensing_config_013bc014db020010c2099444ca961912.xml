@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-13 17:10:28</sys_created_on>
-        <sys_id>e977d580db710010c2099444ca961997</sys_id>
+        <sys_id>013bc014db020010c2099444ca961912</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_356866_needit_ap_needit</sys_name>
         <sys_package display_value="NeedIt App" source="x_356866_needit_ap">bed61d00db710010c2099444ca96197c</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt App">bed61d00db710010c2099444ca96197c</sys_scope>
-        <sys_update_name>ua_table_licensing_config_e977d580db710010c2099444ca961997</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_013bc014db020010c2099444ca961912</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-13 17:10:28</sys_updated_on>
     </ua_table_licensing_config>
